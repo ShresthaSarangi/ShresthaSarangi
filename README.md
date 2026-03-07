@@ -1,4 +1,27 @@
-## Hi there 👋
+Hi, I'm Shrestha Sarangi 👋
+
+About Me
+
+I'm currently learning programming and building projects to improve my coding and problem-solving skills.
+
+Skills
+
+- Python
+- Git & GitHub
+- Command Line Tools
+
+Projects
+
+- Terminal Task Manager
+- Password Strength Checker
+
+More projects coming soon.
+
+Goals
+
+- Build more Python projects
+- Learn Data Science
+- Learn Java
 
 <!--
 **ShresthaSarangi/ShresthaSarangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
