@@ -9,11 +9,13 @@ Skills
 - Python
 - Git & GitHub
 - Command Line Tools
+- File Handling
 
 Projects
 
 - Terminal Task Manager
 - Password Strength Checker
+- Caesar Cipher
 
 More projects coming soon.
 
