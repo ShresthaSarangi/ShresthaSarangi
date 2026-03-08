@@ -1,41 +1,37 @@
-Hi, I'm Shrestha Sarangi 👋
+Hi, I'm Shrestha 👋
+
+I'm currently learning Python and working on small projects to improve my programming and problem-solving skills.
 
 About Me
 
-I'm currently learning programming and building projects to improve my coding and problem-solving skills.
-
-Skills
-
-- Python
-- Git & GitHub
-- Command Line Tools
-- File Handling
+- 🌱 Currently learning Python and Web Development
+- 💻 Interested in building useful tools and web applications
+- 📚 Learning through courses and hands-on projects
+- 🚀 Working towards becoming a web developer
 
 Projects
 
-- Terminal Task Manager
-- Password Strength Checker
-- Caesar Cipher
+Here are some projects I’ve built while learning:
 
-More projects coming soon.
+- Task Manager – A command-line tool to manage daily tasks
+- Password Strength Checker – Checks the strength of a password
+- Caesar Cipher Tool – Encrypts and decrypts messages using a classic cipher
+
+You can find these projects in my repositories.
+
+Technologies I'm Learning
+
+- Python
+- Git
+- GitHub
+- Command Line
 
 Goals
 
 - Build more Python projects
-- Learn Data Science
-- Learn Java
+- Learn web development
+- Create real-world applications
 
-<!--
-**ShresthaSarangi/ShresthaSarangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
