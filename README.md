@@ -1,37 +1,21 @@
-Hi, I'm Shrestha 👋
+# Hi, I'm Shrestha 👋
 
-I'm currently learning Python and working on small projects to improve my programming and problem-solving skills.
+I'm currently learning **Python and web development**, building small projects to improve my programming and problem-solving skills.
 
-About Me
+## What I'm Working On
+- Practicing Python fundamentals
+- Building beginner-friendly projects
+- Learning how to write clean and organized code
 
-- 🌱 Currently learning Python and Web Development
-- 💻 Interested in building useful tools and web applications
-- 📚 Learning through courses and hands-on projects
-- 🚀 Working towards becoming a web developer
-
-Projects
-
-Here are some projects I’ve built while learning:
-
-- Task Manager – A command-line tool to manage daily tasks
-- Password Strength Checker – Checks the strength of a password
-- Caesar Cipher Tool – Encrypts and decrypts messages using a classic cipher
-
-You can find these projects in my repositories.
-
-Technologies I'm Learning
-
+## Technologies I'm Learning
 - Python
-- Git
-- GitHub
-- Command Line
+- Git & GitHub
+- Web development (next step)
 
-Goals
+## Goals
+My goal is to become a skilled developer by continuously learning and building projects.
 
-- Build more Python projects
-- Learn web development
-- Create real-world applications
+## Projects
+You can find my projects in my repositories where I experiment with different Python programs and ideas.
 
----
-
-⭐ Thanks for visiting my profile!
+More projects coming soon 🚀
