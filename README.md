@@ -1,4 +1,3 @@
-![Banner](github%20profile%20image.jfif)
 # Hi, I'm Shrestha 👋
 
 I'm currently learning **Python and web development**, building small projects to improve my programming and problem-solving skills.
