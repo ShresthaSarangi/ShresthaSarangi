@@ -6,12 +6,15 @@ I'm currently learning **Python and web development**, building small projects t
 - Practicing Python fundamentals
 - Building beginner-friendly projects
 - Django websites
+- Learning SQL and API
 - Learning how to write clean and organized code
 
 ## Technologies I'm Learning
 - Python
 - Django
 - Git & GitHub
+- SQL
+- Rest API
 - Web development
 
 ## Goals
