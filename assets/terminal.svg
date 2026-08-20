@@ -1,0 +1,78 @@
+<svg width="900" height="300" viewBox="0 0 900 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Terminal window -->
+  <rect width="900" height="300" rx="16" fill="#0d1117"/>
+
+  <!-- Terminal header -->
+  <rect width="900" height="40" rx="16" fill="#161b22"/>
+
+  <!-- Window buttons -->
+  <circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="20" r="6" fill="#27c93f"/>
+
+  <!-- Terminal title -->
+  <text x="450" y="25"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="13"
+        fill="#8b949e">
+    shrestha@github: ~
+  </text>
+
+  <!-- whoami command -->
+  <text x="35" y="78"
+        font-family="monospace"
+        font-size="18"
+        fill="#ff0000">
+    &gt; whoami
+  </text>
+
+  <text x="35" y="108"
+        font-family="monospace"
+        font-size="18"
+        fill="#ffffff">
+    Shrestha Sarangi
+  </text>
+
+  <!-- role command -->
+  <text x="35" y="148"
+        font-family="monospace"
+        font-size="18"
+        fill="#ff0000">
+    &gt; role
+  </text>
+
+  <text x="35" y="178"
+        font-family="monospace"
+        font-size="18"
+        fill="#ffffff">
+    Python Full Stack Developer
+  </text>
+
+  <!-- skills command -->
+  <text x="35" y="218"
+        font-family="monospace"
+        font-size="18"
+        fill="#ff0000">
+    &gt; skills
+  </text>
+
+  <text x="35" y="248"
+        font-family="monospace"
+        font-size="18"
+        fill="#ffffff">
+    Python | Django | JavaScript | REST APIs | SQL
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="35" y="263" width="10" height="20" fill="#ff0000">
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="1s"
+      repeatCount="indefinite"/>
+  </rect>
+
+</svg>
