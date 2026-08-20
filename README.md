@@ -1,26 +1,154 @@
-# Hi, I'm Shrestha 👋
+<h1 align="center">Hi 👋, I'm Shrestha Sarangi</h1>
 
-I'm currently learning **Python and web development**, building small projects to improve my programming and problem-solving skills.
+<p align="center">
+  <strong>Python Full Stack Developer | Django | Web Development</strong>
+</p>
 
-## What I'm Working On
-- Practicing Python fundamentals
-- Building beginner-friendly projects
-- Django websites
-- Learning SQL and API
-- Learning how to write clean and organized code
+<p align="center">
+  I enjoy building practical web applications and learning by
+  turning ideas into working projects.
+</p>
 
-## Technologies I'm Learning
-- Python
-- Django
-- Git & GitHub
-- SQL
-- Rest API
-- Web development
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ShresthaSarangi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## Goals
-My goal is to become a skilled developer by continuously learning and building projects.
+---
 
-## Projects
-You can find my projects and websites in my repositories where I experiment with different Python programs and ideas.
+## 👩‍💻 About Me
 
-More projects coming soon 🚀
+I'm a Computer Science student who enjoys building applications
+with Python and Django. Most of my learning happens through
+projects, where I get to work with databases, APIs, authentication,
+frontend interfaces and different web technologies.
+
+- 🎓 B.Tech Computer Science Engineering student
+- 🐍 Mainly working with Python and Django
+- 🌐 Learning and building full-stack web applications
+- 🔌 Working with REST APIs and third-party APIs
+- 📊 Interested in creating useful, user-friendly applications
+- 📚 Currently improving my JavaScript and DSA skills
+- 🚀 Always working on something new
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+</p>
+
+### Frameworks & Styling
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind" />
+</p>
+
+### Database & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode" />
+</p>
+
+### Libraries & APIs
+
+<p>
+  <code>BeautifulSoup</code>
+  <code>Requests</code>
+  <code>Django REST Framework</code>
+  <code>Chart.js</code>
+  <code>Stripe API</code>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍽️ Macro Tracker
+
+A Django-based nutrition tracker for recording food intake
+and keeping track of calories, carbohydrates, protein and fats.
+The application also includes a visual macro breakdown using
+Chart.js.
+
+**Tech:** Django • SQLite • Tailwind CSS • Chart.js
+
+🔗 [View Project](YOUR_MACRO_TRACKER_REPO)
+
+---
+
+### 💰 Expense Tracker
+
+A Django application for recording expenses and viewing
+spending patterns across different time periods with
+graphical visualizations.
+
+**Tech:** Django • SQLite • JavaScript • Charts
+
+🔗 [View Project](YOUR_EXPENSE_TRACKER_REPO)
+
+---
+
+### 💬 Chat Application
+
+A Django-based chat application built to understand how
+users, rooms and messages work together in a web application.
+
+**Tech:** Django • SQLite • HTML • CSS • JavaScript
+
+🔗 [View Project](YOUR_CHAT_REPO)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ShresthaSarangi&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShresthaSarangi&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ShresthaSarangi&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript and frontend development
+- Data Structures & Algorithms
+- REST API development
+- Better database design
+- Building more complete full-stack applications
+
+---
+
+## 👋 Thanks for visiting!
+
+I'm always learning, building and improving through new projects.
+
+Feel free to explore my repositories and connect with me.
