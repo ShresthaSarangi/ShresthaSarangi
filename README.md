@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Shrestha Sarangi
+  Hi, I'm Shrestha Sarangi
 </h1>
 <p align="center">
   <img src="./assets/terminal.svg" width="900">
