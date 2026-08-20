@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Shrestha Sarangi</h1>
+<h1 align="center">
+  Hi 👋, I'm Shrestha Sarangi
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Python+Developer;Django+Developer;Python+Full+Stack+Developer;REST+API+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%8C%90+Django+Developer;%F0%9F%92%BB+Python+Full+Stack+Developer;%F0%9F%94%8C+REST+API+Developer" />
 </p>
 
 <p align="center">
-  Building practical web applications with Python, Django and modern web technologies.
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=2&section=header" width="80%" />
 </p>
 
 <p align="center">
-  <strong>Python Full Stack Developer | Django | Web Development</strong>
+  <strong>Building practical web applications with Python, Django & modern web technologies.</strong>
 </p>
-
 <p align="center">
   I enjoy building practical web applications and learning by
   turning ideas into working projects.
