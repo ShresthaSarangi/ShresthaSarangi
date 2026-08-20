@@ -1,7 +1,9 @@
 <h1 align="center">
   Hi 👋, I'm Shrestha Sarangi
 </h1>
-
+<p align="center">
+  <img src="./assets/terminal.svg" width="900">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000,100:1E3A8A&height=2&section=header" width="80%" />
