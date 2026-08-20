@@ -72,38 +72,6 @@ frontend interfaces and different web technologies.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🍽️ Macro Tracker
-
-A Django-based nutrition tracker for recording food intake
-and keeping track of calories, carbohydrates, protein and fats.
-The application also includes a visual macro breakdown using
-Chart.js.
-
-**Tech:** Django • SQLite • Tailwind CSS • Chart.js
-
-🔗 [View Project](YOUR_MACRO_TRACKER_REPO)
-
----
-
-### 💰 Expense Tracker
-
-A Django application for recording expenses and viewing
-spending patterns across different time periods with
-graphical visualizations.
-
-**Tech:** Django • SQLite • JavaScript • Charts
-
-🔗 [View Project](YOUR_EXPENSE_TRACKER_REPO)
-
----
-
-### 💬 Chat Application
-
-A Django-based chat application built to understand how
-users, rooms and messages work together in a web application.
-
 **Tech:** Django • SQLite • HTML • CSS • JavaScript
 
 🔗 [View Project](YOUR_CHAT_REPO)
